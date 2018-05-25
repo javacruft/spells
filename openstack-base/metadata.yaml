@@ -1,5 +1,6 @@
 cloud-whitelist:
 - maas
+- localhost
 friendly-name: OpenStack with NovaKVM
 options-whitelist:
   keystone:
